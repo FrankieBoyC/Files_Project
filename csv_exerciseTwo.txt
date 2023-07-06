@@ -1,0 +1,3 @@
+Packers,GreenBay,Wisconsin
+Cowboys,Dallas,Texas
+Ravens,Baltimore,Maryland
